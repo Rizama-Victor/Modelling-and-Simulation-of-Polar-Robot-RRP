@@ -54,6 +54,48 @@ Some features of Autodesk Fusion 360 leveraged during the modeling process inclu
 
 ## Results
 
+### 🎥 Model Simulation for the First Revolute Joint
+
+<p align="center">
+    <img src="Demo/demo_2.gif" alt="Simulation Movements for the First Revolute Joint" width="1500"/>
+    <br>
+    <em> Model Simulation for the First Revolute Joint</em>
+</p>
+
+### 🎥 Model Simulation for the Second Revolute Joint
+
+<p align="center">
+    <img src="Demo/demo_3.gif" alt="Simulation Movements for the Second Revolute Joint" width="1500"/>
+    <br>
+    <em> Model Simulation for the Second Revolute Joint</em>
+</p>
+
+### 🎥 Model Simulation for the Prismatic Revolute Joint
+
+<p align="center">
+    <img src="Demo/demo_4.gif" alt="Simulation Movements for the Third Revolute Joint" width="1500"/>
+    <br>
+    <em> Model Simulation for the Prismatic Joint</em>
+</p>
+
+### 🎥 Demo of the Step-by-Step Procedure Towards the Model Development
+
+<p align="center">
+    <img src="Demo/demo_1.gif" alt="Simulation Movements for the Third Revolute Joint" width="1500"/>
+    <br>
+    <em> Model Simulation for the Prismatic Joint</em>
+</p>
+
+### Different Views of the Robot
+
+<p align="center">
+  <img src="End Effector Formation.png" alt="End Effector Formation" width="250" />
+  <img src="Full Robot with all Joints.png" alt="Full Robot with all Joints" width="250" />
+  <img src="Side View of the Robot and It's Dimensions.png" alt="Side View of the Robot and It's Dimensions" width="250" />
+    <br>
+    <em> Fig 4: Digram of the End Effector Formation (Left), Full Robot with all Joints (Center), and the Side View of the Robot and It's Dimensions (Right)  </em>
+</p>
+
 ---
 
 ## ⚠️ Challenges Encountered
