@@ -7,7 +7,7 @@ This repository contains the implementation of the project titled _"Modelling an
 
 ## 🔍 Project Overview
 
-Robotics has emerged as a transformational field that integrates mechanical and electrical engineering and computer science to create autonomous machines. The spherical robot is one of the various robotic designs available today, with its unique structure where the three joints typically feature a revolute-revolute-prismatic (RRP) configuration with intersecting axes, enabling a spherical workspace. This robot configuration is valued for its agility in automation and exploration, amongst other uses. Therefore, the purpose of this project is to model and simulate the kinematics of a spherical robot with an RRP configuration.
+Robotics has emerged as a transformational field that integrates mechanical, electrical engineering and computer science to create autonomous machines. The spherical robot is one of the various robotic designs available today, with its unique structure where the three joints typically feature a revolute-revolute-prismatic (RRP) configuration with intersecting axes, enabling a spherical workspace. This robot configuration is valued for its agility in automation and exploration, amongst other uses. Therefore, the purpose of this project is to model and simulate the kinematics of a spherical robot with an RRP configuration.
 
 ---
 
@@ -22,7 +22,7 @@ Robotics has emerged as a transformational field that integrates mechanical and 
 
 ### Modelling of the Spherical | Polar Robot
 
-The modelling of the spherical (RRP) robot was done using Autodesk Fusion 360 (Education License), a cloud-based CAD/CAM software. This tool was selected due to its 3D modeling capabilities, including parametric design, assembly management, and motion simulation, which was necessary for designing the spherical robot. 
+The modelling of the spherical (RRP) robot was done using Autodesk Fusion 360, a cloud-based CAD/CAM software. This tool was selected due to its 3D modeling capabilities, including parametric design, assembly management, and motion simulation, which was necessary for designing the spherical robot. 
 
 ### Joint Configuration
 As established in earlier sections, the 3D-modeled robot’s structure is defined by three primary joints, often referred to as the RRP (Revolute-Revolute-Prismatic) configuration.
@@ -93,7 +93,7 @@ Some features of Autodesk Fusion 360 leveraged during the modeling process inclu
   <img src="Full Robot with all Joints.png" alt="Full Robot with all Joints" width="250" />
   <img src="Side View of the Robot and It's Dimensions.png" alt="Side View of the Robot and It's Dimensions" width="250" />
     <br>
-    <em> Fig 4: Digram of the End Effector Formation (Left), Full Robot with all Joints (Center), and the Side View of the Robot and It's Dimensions (Right)  </em>
+    <em> Pictorial Representation of the End Effector Formation (Left), Full Robot with all Joints (Center), and the Side View of the Robot and It's Dimensions (Right)  </em>
 </p>
 
 ---
