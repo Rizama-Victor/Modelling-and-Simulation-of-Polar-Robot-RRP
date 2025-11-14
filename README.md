@@ -86,7 +86,7 @@ Some features of Autodesk Fusion 360 leveraged during the modeling process inclu
     <em> Model Simulation for the Prismatic Joint</em>
 </p>
 
-### Different Views of the Robot
+### 📷 Different Views of the Robot
 
 <p align="center">
   <img src="End Effector Formation.png" alt="End Effector Formation" width="250" />
