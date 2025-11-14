@@ -93,7 +93,7 @@ Some features of Autodesk Fusion 360 leveraged during the modeling process inclu
   <img src="Full Robot with all Joints.png" alt="Full Robot with all Joints" width="250" />
   <img src="Side View of the Robot and It's Dimensions.png" alt="Side View of the Robot and It's Dimensions" width="250" />
     <br>
-    <em> Pictorial Representation of the End Effector Formation (Left), Full Robot with all Joints (Center), and the Side View of the Robot and It's Dimensions (Right)  </em>
+    <em> Pictorial Representation of the End Effector Formation (Left), Isometric View of the Robot (Center), and the Side View of the Robot and It's Dimensions (Right)  </em>
 </p>
 
 ---
