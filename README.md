@@ -100,6 +100,6 @@ Some features of Autodesk Fusion 360 leveraged during the modeling process inclu
 
 ## ⚠️ Challenges Encountered
 
-A significant challenge encountered was aligning the prismatic joint’s linear motion with the rotational axes of the revolute joints. Misalignment could disrupt the robot’s kinematics, so this was resolved by defining the joint constraints and utilizing Fusion 360’s alignment tools to ensure coordination. 
+A significant challenge encountered was aligning the prismatic joint’s linear motion with the rotational axes of the revolute joints. Misalignment could disrupt the robot’s kinematics, so this was resolved by defining the joint constraints and utilizing fusion 360’s alignment tools to ensure coordination. 
 
 ---
